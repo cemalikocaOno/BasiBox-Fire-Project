@@ -1,1 +1,66 @@
+PRIVACY POLICY FOR BASIBOX VR
+(Meta Quest 2, Quest Pro, Quest 3)
 
+Basibox VR is a virtual reality demonstration application developed by Basibox for the Meta Quest platform. We respect user privacy and are committed to protecting it in accordance with applicable data protection regulations, including the General Data Protection Regulation (GDPR), where applicable.
+
+Basibox VR is designed to operate offline. The application does not require an internet connection to function and does not collect, process, store, or transmit any personal data.
+
+DATA COLLECTION
+
+Basibox VR does not collect:
+- Personal information
+- User identifiers
+- Device identifiers
+- Usage analytics
+- Interaction logs
+- Gameplay or session statistics
+
+No data of any kind is requested from or recorded about the user.
+
+DATA USAGE AND STORAGE
+
+- Basibox VR operates entirely offline
+- No data is stored locally or remotely
+- No information is transmitted outside the device
+- No third-party services or analytics tools are used
+
+Since no data is collected, there is no data usage, storage, sharing, or monetization.
+
+THIRD-PARTY ACCESS
+
+Basibox VR does not share any information with third parties.
+No external services, servers, or providers have access to user activity, as no such data exists.
+
+USER RIGHTS
+
+Because Basibox VR does not collect or process personal data:
+- There is no personal data to access, modify, or delete
+- No user data requests are applicable
+
+Your privacy is fully preserved at all times while using the application.
+
+DATA TRANSMISSION
+
+There is no data transmission involved in using Basibox VR:
+- No internet communication
+- No background connections
+- No uploads or downloads of user-related information
+
+All application content runs locally on the device.
+
+PURPOSE OF THE APPLICATION
+
+Basibox VR is intended for demonstration and preview purposes only.
+The application presents interactive virtual environments, including fire-themed scenarios, solely to showcase virtual reality experiences. It does not provide real-world instructions, professional training, or certification.
+
+POLICY EFFECTIVE DATE
+
+This privacy policy becomes effective upon installation of Basibox VR and remains valid for as long as the application is installed on the device.
+
+GOVERNING LAW
+
+This privacy policy is governed by applicable local laws and regulations related to data protection and user privacy.
+
+CONTACT
+
+If you have any questions regarding this privacy policy, you may contact Basibox through official communication channels.
